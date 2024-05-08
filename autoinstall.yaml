@@ -12,9 +12,6 @@ autoinstall:
   # Any desired additional snaps may also be listed here.
   snaps:
     - name: firefox
-    - name: gnome-3-38-2004
-    - name: gtk-common-themes
-    - name: snap-store
     - name: snapd-desktop-integration
 
   # User creation can occur in one of 3 ways:
